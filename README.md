@@ -15,7 +15,7 @@ This a demo invoice which will be useful when printing it with javascript window
 
 ## Installation
 
-Install my-project with npm
+Install my-project
 
 ```bash
   Copy and Paste index.html to your project
